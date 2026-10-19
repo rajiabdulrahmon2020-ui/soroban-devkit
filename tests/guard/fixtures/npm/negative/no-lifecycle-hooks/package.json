@@ -1,0 +1,8 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node init && tsc",
+    "test": "vitest run"
+  }
+}
